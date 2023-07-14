@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  *main - using puts to print to the standard o
- *utput
  *Return: always return zero for success
  */
 
