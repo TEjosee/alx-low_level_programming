@@ -5,6 +5,7 @@
  *Return: Always return zero for success
  */
 int main(void)
+
 {
 	int a;
 	
