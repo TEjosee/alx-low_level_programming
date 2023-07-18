@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - using putchar function to print to 
+ * main - using putchar function to print to
  * Return: Always zero for success
  */
 int main(void)
