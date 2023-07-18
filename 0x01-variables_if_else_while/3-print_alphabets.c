@@ -3,15 +3,15 @@
  * main - using putchar function to print to 
  * Return: Always zero for success
  */
-int main (void)
+int main(void)
 {
 	char upper, lower;
 
-	for (upper = 'a'; upper <= 'z'; upper++)
+		for (upper = 'a'; upper <= 'z'; upper++)
 	{
 			putchar(upper);
 	}
-	for (lower = 'A'; lower <= 'Z'; lower++)
+		for (lower = 'A'; lower <= 'Z'; lower++)
 	{
 			putchar(lower);
 	}
