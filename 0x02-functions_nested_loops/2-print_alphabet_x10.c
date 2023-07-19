@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- *main - printing *10 alphabet to the console
+ *print_alphabet - printing *10 alphabet to the consol
+ *
  *Return: Always zero for success
  *
  */
@@ -12,12 +13,10 @@ void print_alphabet_x10(void)
 	for (i = 0; i < 10; i++)
 	{
 	for (d = 'a'; d <= 'z'; d++)
-	
 	{
 		_putchar(d);
 	}
-	
-	
+
 	_putchar('\n');
 	}
 }
