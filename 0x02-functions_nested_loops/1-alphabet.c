@@ -1,17 +1,16 @@
 #include "main.h"
+
 /**
  * print_alphabet - printing alphabet to the screen
- * Return: Always 0.
+ * Return: Always zero for success
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
-	char alph;
+	char l;
 	
-	for (alph = 'a'; alph <= 'z'; alph++)
-	{	
-		_putchar(alph);
+	for (l = 97; l <= 122; l++)
+	{
+		_putchar(l);
 	}
-		_putchar('\n');
-	return (0);
+	_putchar('\n');
 }
-
