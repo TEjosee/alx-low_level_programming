@@ -2,7 +2,7 @@
 /**
  *_isalpha - checking for alphabeth in ascii table
  *
- *Return: return one if c is a letter ,lowercase or 
+ *Return: return one if c is a letter ,lowercase or
  *uppercase else return zero
  *
  *@c: variable being declared
@@ -16,7 +16,7 @@ int _isalpha(int c)
 	}
 	else
 	{
-		return(0);
+		return (0);
 	}
 	_putchar('\n');
 }
