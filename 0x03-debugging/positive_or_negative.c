@@ -1,4 +1,10 @@
 #include "main.h"
+/**
+ *positive_or_negative - checking if zero is a pos *itive or negative integer
+ *
+ *Return:Always zero for success
+ *
+ */
 
 void positive_or_negative(int i)
 {
