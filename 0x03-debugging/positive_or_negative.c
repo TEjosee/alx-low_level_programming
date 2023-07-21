@@ -2,8 +2,8 @@
 /**
  *positive_or_negative - checking if zero is a pos *itive or negative integer
  *
- *Return:Always zero for success
- *
+ *Return: Always zero for success
+ *@i: expected return
  */
 
 void positive_or_negative(int i)
